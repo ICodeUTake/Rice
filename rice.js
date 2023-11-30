@@ -1,3 +1,9 @@
+/* 
+
+  THIS IS OUTDATED, THIS IS RICE V1!!!
+
+*/
+
 // manual (get your own auth code from database. etc.)
 
 var AuthCode = btoa("cheesecake")

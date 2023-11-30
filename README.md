@@ -1,13 +1,18 @@
-> WHAT WAS I THINKING??? Ok, this is being rewritten in PHP for Rice V2
-# Rice (v1)
-Rice Authentication V1 is out!
+![rice](https://files.catbox.moe/wokcci.png)
+Rice is a very simple and lightweight authentication script. V3 will include SQL support.
+
+# Rice V2
+Rice  V2 is out, PHP is amazing!
+## Test it!
+[Failed test (code: Wrong)](http://streetpass.ct8.pl/vq/CorePlay.php?code=Wrong)<br>
+[Success test (code: authtest)](http://streetpass.ct8.pl/vq/CorePlay.php?code=authtest)
+## PHP versions
+Rice was written on 8.3, now Rice should work with most common PHP versions!
 <br>
-Simple, bite-sized file-size, easy-to-use with 3 customizable options to keep it simple
-<br>
-> Success: https://rice-demo--icodeutake.repl.co/?auth=Y2hlZXNlY2FrZQ==
->
-> Fail: https://rice-demo--icodeutake.repl.co/?auth=IncorrectCode
-<br>
-As you can see it works!
-<br>
-All you need is rice.js, and edit it and add it to your index.html!
+Unless our web provider has an update every version of Rice will be made with 8.3!
+# Rice V1
+Unsupported by docs (was made before major update)
+## Test
+replit was deleted :C
+## Version
+Rice was made with replit which has 7.4 version.
