@@ -1,4 +1,4 @@
-> enjoyers of rice, welcome to rice auth
+> WHAT WAS I THINKING??? Ok, this is being rewritten in PHP for Rice V2
 # Rice (v1)
 Rice Authentication V1 is out!
 <br>
